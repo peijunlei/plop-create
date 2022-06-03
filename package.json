@@ -4,6 +4,18 @@
   "main": "index.js",
   "license": "MIT",
   "type": "module",
+  "description": "用 plop 快速创建模板",
+  "author": "peijunlei",
+  "repository": "https://github.com/peijunlei/plop-create",
+  "keywords": [
+    "plop",
+    "react",
+    "taro",
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "plop": "plop"
   },
