@@ -1,0 +1,15 @@
+{
+  "name": "plop-create",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "plop": "plop"
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "plop": "^3.1.0"
+  },
+  "devDependencies": {}
+}
